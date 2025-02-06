@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zermankarim)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zermankarim/zermankarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
